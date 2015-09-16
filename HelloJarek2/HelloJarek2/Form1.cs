@@ -26,5 +26,10 @@ namespace HelloJarek2
         {
             MessageBox.Show("Cześć Karol!", "Witaj");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Cześć Andrzej!", "Witaj");
+        }
     }
 }
